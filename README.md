@@ -1,6 +1,6 @@
 # Top 10 Trending Fonts in 2019 - 2020
 
-![My image](https://github.com/huuphongnguyen/phong.github.io/raw/master/cereal.png)
+![My image](https://github.com/huuphongnguyen/top10trendingfonts2019-2020/blob/master/Images/top-10-trending-fonts-2019-2020.jpg?raw=true)
 
 ### What can you do with these font files? ![CI status](https://img.shields.io/badge/File%3A-TTF-%2330fff1.svg)  [![CI status](https://img.shields.io/badge/huuphongnguyen-.com-%23020977.svg)](https://huuphongnguyen.com)  ![CI status](https://img.shields.io/badge/Purpose%3A-Font-%23027AFF.svg)
 
