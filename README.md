@@ -12,7 +12,7 @@
 ![My image](https://github.com/huuphongnguyen/phong.github.io/raw/master/cereal.png)
 
 ## 2. Cera Pro
-![My image](https://github.com/huuphongnguyen/phong.github.io/raw/master/cereal.png)
+![My image](https://github.com/huuphongnguyen/top10trendingfonts2019-2020/blob/master/Images/cera-pro.jpg?raw=true)
 
 ## 3. Circular
 ![My image](https://github.com/huuphongnguyen/phong.github.io/raw/master/cereal.png)
