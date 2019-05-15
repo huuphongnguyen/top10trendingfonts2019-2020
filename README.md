@@ -12,30 +12,30 @@
 ![My image](https://github.com/huuphongnguyen/phong.github.io/raw/master/cereal.png)
 
 ## 2. Cera Pro
-![My image](https://github.com/huuphongnguyen/phong.github.io/raw/master/cereal.png)
+![My image](https://github.com/huuphongnguyen/top10trendingfonts2019-2020/blob/master/Images/cera-pro.jpg?raw=true)
 
 ## 3. Circular
-![My image](https://github.com/huuphongnguyen/phong.github.io/raw/master/cereal.png)
+![My image](https://github.com/huuphongnguyen/top10trendingfonts2019-2020/blob/master/Images/Circular.png)
 
 ## 4. Didot
-![My image](https://github.com/huuphongnguyen/phong.github.io/raw/master/cereal.png)
+![My image](https://github.com/huuphongnguyen/top10trendingfonts2019-2020/blob/master/Images/Didot.jpg)
 
 ## 5. Gilroy
-![My image](https://github.com/huuphongnguyen/phong.github.io/raw/master/cereal.png)
+![My image](https://github.com/huuphongnguyen/top10trendingfonts2019-2020/blob/master/Images/Gilroy.png)
 
 ## 6. Google Sans
-![My image](https://github.com/huuphongnguyen/phong.github.io/raw/master/cereal.png)
+![My image](https://github.com/huuphongnguyen/top10trendingfonts2019-2020/blob/master/Images/Google%20Sans.png)
 
 ## 7. MULLER
-![My image](https://github.com/huuphongnguyen/phong.github.io/raw/master/cereal.png)
+![My image](https://github.com/huuphongnguyen/top10trendingfonts2019-2020/blob/master/Images/MULLER.jpg)
 
 ## 8. Playfair Display
-![My image](https://github.com/huuphongnguyen/phong.github.io/raw/master/cereal.png)
+![My image](https://github.com/huuphongnguyen/top10trendingfonts2019-2020/blob/master/Images/%20Playfair%20Display.png)
 
 ## 9. SF Pro
-![My image](https://github.com/huuphongnguyen/phong.github.io/raw/master/cereal.png)
+![My image](https://github.com/huuphongnguyen/top10trendingfonts2019-2020/blob/master/Images/SF%20Pro.jpg)
 
 ## 10. TT.Commons
-![My image](https://github.com/huuphongnguyen/phong.github.io/raw/master/cereal.png)
+![My image](https://github.com/huuphongnguyen/top10trendingfonts2019-2020/blob/master/Images/TT.Commons.jpg)
 
 Enjoy it 🙌
