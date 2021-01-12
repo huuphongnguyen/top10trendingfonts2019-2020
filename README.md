@@ -1,4 +1,5 @@
 # Top 10 Trending Fonts in 2019 - 2020
+##  MY NEW LIST AVAILABLED NOW: [TOP Trending Fonts in 2021-2022](https://github.com/huuphongnguyen/top-trending-fonts-2021-2022)
 
 ![My image](https://github.com/huuphongnguyen/top10trendingfonts2019-2020/blob/master/Images/top-10-trending-fonts-2019-2020.jpg?raw=true)
 
